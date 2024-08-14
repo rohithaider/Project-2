@@ -168,6 +168,7 @@ margin: 0 auto;
 .banner-sticker-1{
     width: 140px;
     padding: 20px 18px;
+    align-items: center;
     display: flex;
     border-radius: 12px;
     margin-top: -130px;
@@ -198,8 +199,8 @@ margin: 0 auto;
     padding: 15px 18px;
     display: flex;
     border-radius: 12px;
-    margin-top: -230px;
-    margin-left: 220px;
+    margin-top: -480px;
+    margin-left: 230px;
     position: absolute;
     background-color: rgba(48, 48, 48, 0.54);
     backdrop-filter: blur(10px);
