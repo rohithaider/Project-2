@@ -35,4 +35,19 @@
         gap: 60px;
     
     }
+    .run{
+        grid-template-columns: repeat(1,1fr);
+        justify-items: center;
+        gap: 24px;
+    }
+    .run-image-card{
+        padding-left: 0;
+    }
+    .run-info{
+        margin-right: 24px;
+    }
+    .run-btn{
+        text-align: center;
+        width: 300px;
+    }
 }
