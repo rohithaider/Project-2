@@ -162,4 +162,54 @@ margin: 0 auto;
 }
 .banner-container{
     margin-bottom: 50px;
+    position: relative;
+}
+
+.banner-sticker-1{
+    width: 140px;
+    padding: 20px 18px;
+    display: flex;
+    border-radius: 12px;
+    margin-top: -130px;
+    margin-left: -100px;
+    position: absolute;
+    background-color: rgba(48, 48, 48, 0.54);
+    backdrop-filter: blur(10px);
+
+}
+.banner-sticker-circle{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    background-color: #E6533C;
+    margin-right: 5px;
+    
+}
+.banner-sticker-description-title-1{
+    color: #FAFAF9;
+    font-size: 1.2rem;
+
+}
+.banner-sticker-description--description-1{
+    color: rgba(239,237,232, .65);
+}
+.banner-sticker-2{
+    width: 110px;
+    padding: 15px 18px;
+    display: flex;
+    border-radius: 12px;
+    margin-top: -230px;
+    margin-left: 220px;
+    position: absolute;
+    background-color: rgba(48, 48, 48, 0.54);
+    backdrop-filter: blur(10px);
+}
+.banner-sticker-description-title-2{
+    color: #FFFFFF;
+    font-size: 2rem;
+
+}
+.banner-sticker-description--description-2{
+    color: rgba(255,255,255,.65);
+    font-size: .8rem;
 }
