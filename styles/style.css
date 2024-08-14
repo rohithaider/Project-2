@@ -263,8 +263,8 @@ margin: 0 auto;
 }
 .card-container p{
     font-weight: 400;
-    font-size: .7rem;
-    color: rgba(255,255,255,.5);
+    font-size: .8rem;
+    color: rgba(255,255,255,0.5);
 
 }
 
