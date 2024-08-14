@@ -254,14 +254,14 @@ margin: 0 auto;
     margin-bottom: 24px;
 
 }
-.card-container h3{
+.card-container-title{
     font-weight: 600;
     font-size: 1rem;
     margin-bottom: 10px;
     color: #FFFFFF;
 
 }
-.card-container p{
+.card-container-description{
     font-weight: 400;
     font-size: .8rem;
     color: rgba(255,255,255,0.5);
