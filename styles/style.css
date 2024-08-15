@@ -323,4 +323,117 @@ margin: 0 auto;
 /* BMI style */
 .bmi{
     padding-top: 78px;
+    color: #FFFFFF;
+} 
+.bmi-info{
+    text-align: center;
+    max-width: 640px;
+    margin: 0 auto;
 }
+.bmi-title{
+    font-weight: 800;
+    font-size: 2.5rem;
+    margin-bottom:10px ;
+}
+.bmi-description{
+    padding-bottom: 78px;
+}
+.bmi-whole-container{
+    background-color: #222222;
+
+}
+.bmi-container{
+    max-width: 90%;
+    margin: 0 auto;
+    display: flex;
+    padding-bottom: 48px;
+
+
+}
+.calculator-title{
+    padding-top: 46px;
+    padding-bottom: 46px;
+    font-weight: 800;
+    font-size: 1.6rem;
+}
+
+
+.chart{
+    max-width: 360px;
+    border: 1px solid rgba(255,255,255,.1);
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    grid-template-rows: repeat(5,1fr);
+    padding-left: ;
+}
+.chart-cells,.chart-cells-heading{
+    border: 1px solid rgba(255,255,255,.1);
+    padding:8px 60px 0px 12px;
+}
+.chart-cells-heading{
+  font-weight: 500;
+  font-size: .95rem;  
+}
+.chart-cells{
+    font-weight: 400;
+    font-size: .80rem;
+    color: rgba(255,255,255,.5);
+
+}
+
+.cal-bmi{
+    margin-left: 146px;
+}
+.cal-bmi-title{
+    padding-top: 46px;
+    font-weight: 800;
+    font-size:1.6rem ;
+    margin-bottom: 10px;
+}
+.cal-bmi-description{
+    font-weight: 400;
+    font-size: .80rem;
+    color:rgba(255,255,255,.5);
+    margin-bottom: 28px;
+}
+.bmi-form{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    grid-template-rows: repeat(3,1fr);
+    gap:8px;
+}
+.form-cells{
+    background-color: rgba(255,255,255,.1);
+    border-radius: 8px;
+    padding: 10px 10px 10px 10px ;
+    font-size: .95rem;
+    color: rgba(255,255,255,.60);
+}
+#item-4{
+    display: flex;
+    justify-content: space-between;
+}
+#item-5{
+    grid-column: 1/-1;
+    display: flex;
+    justify-content:space-between;
+}
+.cal-btn{
+    padding: 16px 40px;
+    border-radius:42px;
+    border: none;
+    margin-top: 26px;
+    background-color:#E6533C;
+    color:#FFFFFF;
+    font-size: 1rem;
+    font-weight: 600;
+    width: 200px;
+
+}
+.cal-bmi-description{
+    margin-bottom: 34px;
+}
+
+
+
+
