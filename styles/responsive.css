@@ -44,6 +44,7 @@
     .run-image-card{
         padding-left: 0;
         margin: 0 auto;
+        max-width: 90%;
     }
     .run-info{
         margin-right: 24px;
