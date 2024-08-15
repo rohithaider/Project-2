@@ -117,27 +117,30 @@ margin: 0 auto;
     font-size: 1rem;
     margin-top: -40px;
     color:rgba(255,255,255,.5) ;
+    margin-top: 20px;
 }
 
 #banner-stylish-1{
     color: #FFFFFF;
     font-family:'Miama', sans-serif;
     font-size:10rem;
-    position: relative;
+    /* position: relative; */
     top: -60px;
     font-weight:100;
+    line-height: 100px;
+     
 }
 #banner-stylish-2{
     color: #FFFFFF;
     font-size:4rem;
-    position: relative;
+    /* position: relative; */
     top: -60px;
     font-weight:800;
 }
 #banner-stylish-3{
     color: #FFFFFF;
     font-size:4rem;
-    position: absolute;
+    /* position: absolute; */
     top: 180px;
     font-weight:800;
 }
