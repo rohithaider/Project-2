@@ -191,6 +191,10 @@ margin: 0 auto;
     border-radius: 50%;
     background-color: #E6533C;
     margin-right: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
     
 }
 .banner-sticker-description-title-1{
