@@ -53,6 +53,7 @@
     }
     .run-image{
         width: 95%;
+        margin:0 auto;
     }
     .bmi-container{
         display: flex;
