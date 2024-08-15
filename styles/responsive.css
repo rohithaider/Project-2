@@ -51,8 +51,8 @@
         /* text-align: center; */
         width: 250px;
     }
-    .run-image-card{
-        
+    .run-image{
+        width: 95%;
     }
     .bmi-container{
         display: flex;
