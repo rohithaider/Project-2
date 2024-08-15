@@ -58,5 +58,10 @@
     .cal-bmi{
         margin:0 auto;
     }
-    
+    .team-card-container{
+        grid-template-columns: repeat(1,1fr);
+    }
+    .team-card-image{
+        width: 100%;
+    }
 }
