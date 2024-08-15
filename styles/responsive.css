@@ -37,9 +37,9 @@
     }
     .run{
         grid-template-columns: repeat(1,1fr);
-        /* justify-items: center; */
+        justify-items: center;
         gap: 24px;
-        /* align-items: center; */
+        align-items: center;
     }
     .run-image-card{
         padding-left: 0;
