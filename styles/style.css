@@ -368,7 +368,7 @@ margin: 0 auto;
 }
 .chart-cells,.chart-cells-heading{
     border: 1px solid rgba(255,255,255,.1);
-    padding:8px 60px 0px 12px;
+    padding:8px 60px 5px 12px;
 }
 .chart-cells-heading{
   font-weight: 500;
