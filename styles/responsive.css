@@ -49,10 +49,10 @@
     }
     .run-btn{
         /* text-align: center; */
-        width: 200px;
+        width: 250px;
     }
     .run-image-card{
-        margin-left: 20px;
+        margin-left: 10px;
     }
     .bmi-container{
         display: flex;
